@@ -9,7 +9,7 @@ this is a simple utility app, based on the Unity engine
 
 # DEVELOPMENT BUILDS
 - 1.02.dev *LINK: https://drive.google.com/open?id=15tKzmXnAcXi3kBprIe8dLTLOVgNi4RXt*
-- 1.025.dev *Should be out until 05/28 21:00*
+- 1.025.dev *Should be out until 05/28 21:00(UTC +2:00)*
 
 # CHANGELOG
 
