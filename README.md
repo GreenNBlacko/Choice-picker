@@ -6,7 +6,16 @@ this is a simple utility app, based on the Unity engine
 # RELEASES
 -1.0. *LINK: https://drive.google.com/open?id=1F-k7NFICbTIkx8qlE7YSOaDzVLvSvW9M*
 
--1.01 (In serious development. A lot of bugs in version 1.0).
+-1.01 *LINK: https://drive.google.com/open?id=1-gd7u71J98yyzd6WOciqoRV9kH5R_aYi*
 
 # CHANGELOG
-empty as a desert
+- A serious UI redesign. (The UI now scales with the screen)
+- Added a version display(not very useful I guess...).
+- Fixed a bug when only two choices are present(It was always picking choice #1).
+
+# UPCOMING in 1.02
+- A search bar (Partially done. Has some issues)
+- Remove all button (75% done)
+- UI bug fixes (Most of known bugs fixed)
+- Yet another UI redesign (Finishing up...)
+- More bug fixes (50% of known bugs fixed)
