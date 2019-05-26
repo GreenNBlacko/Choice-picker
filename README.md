@@ -4,9 +4,8 @@ When you can't decide what to do
 this is a simple utility app, based on the Unity engine
 
 # RELEASES
--1.0. *LINK: https://drive.google.com/open?id=1F-k7NFICbTIkx8qlE7YSOaDzVLvSvW9M*
-
--1.01.hotfix *LINK: https://drive.google.com/open?id=1-gd7u71J98yyzd6WOciqoRV9kH5R_aYi*
+- 1.0. *LINK: https://drive.google.com/open?id=1F-k7NFICbTIkx8qlE7YSOaDzVLvSvW9M*
+- 1.01.hotfix *LINK: https://drive.google.com/open?id=1-gd7u71J98yyzd6WOciqoRV9kH5R_aYi*
 
 # CHANGELOG
 - A serious UI redesign. (The UI now scales with the screen)
