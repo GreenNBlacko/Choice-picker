@@ -16,5 +16,5 @@ this is a simple utility app, based on the Unity engine
 - A search bar (Partially done. Has some issues)
 - Remove all button (75% done)
 - UI bug fixes (Most of known bugs fixed)
-- Yet another UI redesign (More work, needed rescaling for portrait users)
+- Yet another UI redesign (Done! Took a long time to make a seperate UI for portait users(There were scaling issues, either in portrait on in landscape mode))
 - More bug fixes (50% of known bugs fixed)
