@@ -13,7 +13,7 @@ this is a simple utility app, based on the Unity engine
 - 1.025.dev *Should be out until 05/28 21:00(UTC +2:00)*
 
 # IOS SECTION
-- 1.025.dev.prerelease *LINK: Due to device that can export to IOS limitations, IOS users will have to wait* (No links yet... Sorry IOS users)
+- 1.025.dev.prerelease *LINK: Due to devices that can export to IOS platforms limitations, IOS users will have to wait* (No links yet... Sorry IOS users)
 
 # CHANGELOG
 
