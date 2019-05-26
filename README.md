@@ -1,5 +1,5 @@
 # Choice picker
-When you can't decide what to do
+This program decides for you. All you have to do is enter your options.
 
 this is a simple utility app, based on the Unity engine
 
