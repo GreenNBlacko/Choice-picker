@@ -1,4 +1,4 @@
-# Choice-picker
+# Choice picker
 When you can't decide what to do
 
 this is a simple utility app, based on the Unity engine
