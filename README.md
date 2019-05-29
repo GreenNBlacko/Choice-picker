@@ -9,8 +9,8 @@ this is a simple utility app, based on the Unity engine
 
 # DEVELOPMENT BUILDS
 - 1.02.dev *LINK: https://drive.google.com/open?id=15tKzmXnAcXi3kBprIe8dLTLOVgNi4RXt*
-- 1.025.dev.prerelease *LINK: Will be out till tomorrow*
-- 1.025.dev *Should be out until 05/28 21:00(UTC +2:00)*
+- 1.025.dev.prerelease *LINK: will be uploaded in the upcoming 8 hours*
+- 1.025.dev *Work in progress*
 
 # IOS SECTION
 - 1.025.dev.prerelease *LINK: Due to devices that can export to IOS platforms limitations, IOS users will have to wait* (No links yet... Sorry IOS users)
@@ -25,7 +25,7 @@ this is a simple utility app, based on the Unity engine
 
 *1.02.dev*
   
-- Yet another UI redesign (Took a long time to make a seperate UI for portait users(There were scaling issues, either in portrait on in landscape mode))
+- Yet another UI redesign (Took a long time to make a seperate UI for portait users(There were scaling issues, either in portrait or in landscape mode))
 
 # UPCOMING in 1.025.dev
 - A search bar (Partially done. Has some issues)
