@@ -9,7 +9,7 @@ this is a simple utility app, based on the Unity engine
 
 # DEVELOPMENT BUILDS
 - 1.02.dev *LINK: https://drive.google.com/open?id=15tKzmXnAcXi3kBprIe8dLTLOVgNi4RXt*
-- 1.025.dev.prerelease *LINK: will be uploaded in the upcoming 8 hours*
+- 1.025.dev.prerelease *LINK: https://drive.google.com/file/d/1IvQKL38-8jnFVCVOSsKTajd83hPyCPGH/view?usp=sharing*
 - 1.025.dev *Work in progress*
 
 # IOS SECTION
