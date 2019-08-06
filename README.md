@@ -27,8 +27,15 @@ this is a simple utility app, based on the Unity engine
   
 - Yet another UI redesign (Took a long time to make a seperate UI for portait users(There were scaling issues, either in portrait or in landscape mode))
 
-# UPCOMING in 1.025.dev
+*1.025.dev.prerelease*
+
+- More bug fixes
+
+*1.025.dev*
+
 - A search bar (Partially done. Has some issues)
 - Remove all button (done!)
 - UI bug fixes (All known bugs fixed!)
-- More bug fixes (All known bugs fixed!)
+- More miscellaneous bug fixes (All known bugs fixed!)
+
+//# UPCOMING in 1.025.dev
