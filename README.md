@@ -29,6 +29,6 @@ this is a simple utility app, based on the Unity engine
 
 # UPCOMING in 1.025.dev
 - A search bar (Partially done. Has some issues)
-- Remove all button (75% done)
-- UI bug fixes (Another bug encountered(When entering landscape mode, the choices don't transfer from portrait mode to landscape mode. Same goes for when entering portrait mode))
-- More bug fixes (50% of known bugs fixed)
+- Remove all button (done!)
+- UI bug fixes (All known bugs fixed!)
+- More bug fixes (All known bugs fixed!)
