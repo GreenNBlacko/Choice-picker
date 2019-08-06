@@ -38,4 +38,6 @@ this is a simple utility app, based on the Unity engine
 - UI bug fixes (All known bugs fixed!)
 - More miscellaneous bug fixes (All known bugs fixed!)
 
-//# UPCOMING in 1.025.dev
+# UPCOMING in 1.03.dev
+
+-Nothing(yet...)
