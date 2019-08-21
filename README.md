@@ -10,11 +10,11 @@ this is a simple utility app, based on the Unity engine
 
 # DEVELOPMENT BUILDS
 - 1.02.dev *LINK: https://drive.google.com/open?id=15tKzmXnAcXi3kBprIe8dLTLOVgNi4RXt*
-- 1.025.dev *LINK: https://drive.google.com/open?id=1DZRJRW94Ql4VBTjNAN3_T1s9I3e0k4hT*
 - 1.025.dev.prerelease *LINK: https://drive.google.com/open?id=1IvQKL38-8jnFVCVOSsKTajd83hPyCPGH*
+- 1.025.dev *LINK: https://drive.google.com/open?id=1DZRJRW94Ql4VBTjNAN3_T1s9I3e0k4hT*
 
 # IOS SECTION
-- 1.025.dev.prerelease *LINK: Due to devices that can export to IOS platforms limitations, IOS users will have to wait* (No links yet... Sorry IOS users)
+- 1.025 *LINK: Due to devices that can export to IOS platforms limitations, IOS users will have to wait* (No links yet... Sorry IOS users)
 
 # CHANGELOG
 
@@ -28,16 +28,16 @@ this is a simple utility app, based on the Unity engine
   
 - Yet another UI redesign (Took a long time to make a seperate UI for portait users(There were scaling issues, either in portrait or in landscape mode))
 
+*1.025.dev.prerelease*
+
+- More bug fixes
+
 *1.025.dev*
 
 - A search bar (Partially done. Has some issues)
 - Remove all button (For those people who have a lot of options and are lazy to tap remove all of them by hand)
 - UI bug fixes (All known bugs fixed!)
 - More miscellaneous bug fixes (All known bugs fixed!)
-
-*1.025.dev.prerelease*
-
-- More bug fixes
 
 *1.025*
 
